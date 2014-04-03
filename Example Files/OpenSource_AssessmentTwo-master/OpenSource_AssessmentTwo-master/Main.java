@@ -19,6 +19,7 @@ public class Main {
 		System.out.println("\n\n");
 		
 		v.printDetails();
+		System.out.println("Vehicle main Class");
 	}
 
 }

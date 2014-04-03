@@ -38,6 +38,8 @@ public class Journey {
 	 */
 	public double getKilometers() {
 		return kilometers;
+		
+		
 	}
 
 }
