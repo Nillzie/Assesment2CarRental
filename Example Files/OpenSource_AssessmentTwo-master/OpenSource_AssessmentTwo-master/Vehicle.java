@@ -1,4 +1,3 @@
-
 public class Vehicle {
 	private String			manufacturer;
 	private String			model;
@@ -40,6 +39,7 @@ public class Vehicle {
 	 * Prints details for {@link Vehicle}
 	 */
 	public void printDetails() {
+		System.out.println("Vehicle Public Class");
 		System.out.println("Manufacturer: " + manufacturer);
 		System.out.println("Model: " + model);
 		System.out.println("Make Year: " + makeYear);
